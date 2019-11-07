@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianRoult_Karan", "RussianRoult_Karan\RussianRoult_Karan.csproj", "{BD99459F-0B54-4BD5-B692-D93254AF55B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianRoult_KaranFireTests", "RussianRoult_KaranFireTests\RussianRoult_KaranFireTests.csproj", "{BEF2041A-3222-45D1-A2DE-243619979F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD99459F-0B54-4BD5-B692-D93254AF55B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD99459F-0B54-4BD5-B692-D93254AF55B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD99459F-0B54-4BD5-B692-D93254AF55B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD99459F-0B54-4BD5-B692-D93254AF55B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF2041A-3222-45D1-A2DE-243619979F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF2041A-3222-45D1-A2DE-243619979F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF2041A-3222-45D1-A2DE-243619979F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF2041A-3222-45D1-A2DE-243619979F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8235C72-DC45-4E26-8D88-E26FC10BE706}
+	EndGlobalSection
+EndGlobal
